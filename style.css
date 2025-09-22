@@ -1,0 +1,15 @@
+.title-card{
+    text-align: center;
+    margin: 0 auto;
+    padding: 36px; 
+}
+
+.title-card p {
+    font-size: 30px;
+}
+.title-card h1{
+    font-size: 56px;
+}
+.title-card h2{
+    font-size: 25px;
+}
