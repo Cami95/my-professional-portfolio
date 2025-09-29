@@ -1,20 +1,20 @@
 .hero-body{
     background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    font-family: "Alan Sans", sans-serif;
 }
+    
 .hero{
     text-align: center;
     margin: 0 auto;
     padding: 36px; 
-    font-family: "Shadows Into Light Two", cursive;
-        font-weight: 400;
-        font-style: normal;
+    
 }
 
 .hero p {
     font-size: 36px;
     font-weight: bold;
     margin: 0 auto;
-    padding: 36px 25px;
+    padding: 26px 25px;
 }
 .hero h1{
     font-size: 96px;
@@ -25,4 +25,11 @@
 .hero h2{
     font-size: 24px;
     font-weight: bold;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 30px solid purple;
 }
