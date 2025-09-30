@@ -1,11 +1,8 @@
-.hero-body{
+body{
     background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
     font-family: "Alan Sans", sans-serif;
 }
-.contact-body{
-    background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
-        font-family: "Alan Sans", sans-serif;
-}
+
     
 .hero{
     text-align: center;
@@ -37,6 +34,12 @@
     max-width: 100%;
     border-radius: 10px;
     
+}
+
+.container{
+    display: block;
+    margin: 0 auto;
+    padding: 25px  ;
 }
 
 footer{
